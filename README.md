@@ -1,11 +1,11 @@
-# unko
+# go-sample
 
 Sample of golang project directory architectures.
 
 # Command of running
 
 ```bash
-go run main.go unko.go
+go run main.go sample.go
 ```
 
 # Command of test
